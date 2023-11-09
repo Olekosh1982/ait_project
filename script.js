@@ -1,1 +1,1 @@
-console.log("ghbdtn");
+console.log("Ну,заяц!");
